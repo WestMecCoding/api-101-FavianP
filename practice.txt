@@ -2,4 +2,7 @@ Why did you pick your CSV File?
 The reason why i did how many planes airtravel in 1958 through 1960 to recreate the project is it looked pretty easy with few numbers and dates so i would understand what graph should i
 use to represent the air travel. 
 
-What are the things that you change on the  original 
+What are the things that you change on the original project?
+
+I change the original data base to a data called airtravel.csv(csv-data2), i made the x-axis and the y-axis with different names: Months and how many planes are doing airtravel in 1958 and 1960,
+and another thing that i change was the type of the graph it was a line graph before and now is a bar garph.
